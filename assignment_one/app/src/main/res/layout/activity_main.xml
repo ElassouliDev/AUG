@@ -267,7 +267,7 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_margin="24dp"
-                android:src="@drawable/caller"
+                android:src="@drawable/chat_image"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView22" />
 
